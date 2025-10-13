@@ -1,0 +1,15 @@
+com\frc\backend\gamesapp\dao\GenericDAO.class
+com\frc\backend\gamesapp\dao\GeneroDAO.class
+com\frc\backend\gamesapp\modelo\Genero$GeneroBuilder.class
+com\frc\backend\gamesapp\modelo\Plataforma.class
+com\frc\backend\gamesapp\modelo\ClasificacionESRB.class
+com\frc\backend\gamesapp\App.class
+com\frc\backend\gamesapp\dao\PlataformaDAO.class
+com\frc\backend\gamesapp\modelo\Juego$JuegoBuilder.class
+com\frc\backend\gamesapp\dao\DesarrolladorDAO.class
+com\frc\backend\gamesapp\modelo\Desarrollador.class
+com\frc\backend\gamesapp\modelo\Juego.class
+com\frc\backend\gamesapp\modelo\Desarrollador$DesarrolladorBuilder.class
+com\frc\backend\gamesapp\dao\JuegoDAO.class
+com\frc\backend\gamesapp\modelo\Genero.class
+com\frc\backend\gamesapp\modelo\Plataforma$PlataformaBuilder.class

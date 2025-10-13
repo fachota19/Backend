@@ -1,0 +1,6 @@
+com\empresa\app\modelo\Puesto.class
+com\empresa\app\modelo\Departamento.class
+com\empresa\app\modelo\Empleado.class
+com\empresa\app\servicio\EmpleadoService.class
+com\empresa\app\app\App.class
+com\empresa\app\persistencia\JpaUtil.class

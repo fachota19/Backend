@@ -1,0 +1,51 @@
+isbn,titulo,autor_nombre,autor_apellido,editorial_nombre,stock,precio
+978-0134685991,Clean Code,Robert,Martin,Prentice Hall,15,59.99
+978-0321765723,The Pragmatic Programmer,Andrew,Hunt,Addison-Wesley,10,45.50
+978-0132350884,The Clean Coder,Robert,Martin,Prentice Hall,8,55.00
+978-1934356073,The Go Programming Language,Alan,Donovan,Addison-Wesley,20,62.75
+978-0321721590,Effective Java,Joshua,Bloch,Addison-Wesley,12,50.25
+978-0137813206,Cracking the Coding Interview,Gayle,Laakmann McDowell,CareerCup,25,48.00
+978-1449331824,Head First Design Patterns,Eric,Freeman,O'Reilly Media,30,42.50
+978-0321523361,Refactoring,Martin,Fowler,Addison-Wesley,18,58.75
+978-1491905008,Java 8 in Action,Raoul-Gabriel,Urma,Manning Publications,22,54.99
+978-0201485419,Design Patterns,Erich,Gamma,Addison-Wesley,14,65.00
+978-0321356608,Test Driven Development,Kent,Beck,Addison-Wesley,11,40.00
+978-0135957059,The Clean Architecture,Robert,Martin,Prentice Hall,9,60.50
+978-0321200215,The Mythical Man-Month,Frederick,Brooks,Addison-Wesley,13,49.00
+978-1732102219,The Phoenix Project,Gene,Kim,IT Revolution Press,17,35.00
+978-0131429017,Core Java Volume I,Cay S.,Horstmann,Prentice Hall,28,68.25
+978-0132149557,Effective C++,Scott,Meyers,Addison-Wesley,16,52.00
+978-0470565864,Spring in Action,Craig,Walls,Manning Publications,24,67.80
+978-1932394887,The C++ Programming Language,Bjarne,Stroustrup,Addison-Wesley,19,75.00
+978-0201616224,The Unified Modeling Language,Grady,Booch,Addison-Wesley,10,55.50
+978-0321635398,Code Complete,Steve,McConnell,Microsoft Press,20,63.00
+978-0596517748,Java Concurrency in Practice,Brian,Goetz,Addison-Wesley,12,58.00
+978-1934356417,Programming Pearls,Jon,Bentley,Addison-Wesley,15,41.25
+978-0201835956,Introduction to Algorithms,Thomas,Cormen,MIT Press,11,85.00
+978-0201700687,The Art of Computer Programming,Donald E.,Knuth,Addison-Wesley,5,120.00
+978-0321751048,Structure and Interpretation of Computer Programs,Harold,Abelson,MIT Press,7,70.00
+978-1118008188,Python for Data Analysis,Wes,McKinney,O'Reilly Media,21,49.99
+978-0131103627,The C Programming Language,Brian,Kernighan,Prentice Hall,18,55.00
+978-1491957660,Fluent Python,Luciano,Ramalho,O'Reilly Media,12,64.99
+978-0134494166,Artificial Intelligence: A Modern Approach,Stuart,Russell,Pearson,14,89.99
+978-0262033848,Introduction to Algorithms,Charles,Leiserson,MIT Press,10,82.00
+978-0132356138,Clean Code in Java,Robert,Martin,Prentice Hall,13,57.99
+978-0131177055,Java How to Program,Paul,Deitel,Prentice Hall,20,69.99
+978-0134685992,Refactoring to Patterns,Joshua,Kerievsky,Addison-Wesley,11,47.50
+978-0137081073,Effective JavaScript,David,Herman,Addison-Wesley,15,52.00
+978-0134190440,Java SE8 for the Really Impatient,Cay S.,Horstmann,Addison-Wesley,17,44.99
+978-0132354165,Agile Software Development,Robert,Martin,Prentice Hall,9,59.99
+978-0131177056,Java How to Program Vol II,Paul,Deitel,Prentice Hall,18,72.99
+978-0134685993,Continuous Delivery,Jez,Humble,Addison-Wesley,13,61.00
+978-0137081080,JavaScript: The Good Parts,Douglas,Crockford,O'Reilly Media,16,39.99
+978-0134190457,Core Java Volume II,Cay S.,Horstmann,Prentice Hall,14,68.25
+978-0132354166,Agile Principles,Robert,Martin,Prentice Hall,10,59.99
+978-0131177057,Java How to Program Vol III,Paul,Deitel,Prentice Hall,15,74.99
+978-0134685994,DevOps Handbook,Gene,Kim,IT Revolution Press,12,38.00
+978-0137081097,Learning Python,Mark,Lutz,O'Reilly Media,19,54.99
+978-0134190464,Java Performance,Scott,Oaks,Addison-Wesley,13,59.99
+978-0132354167,Agile Testing,Lisa,Crispin,Addison-Wesley,11,56.99
+978-0131177058,Java How to Program Vol IV,Paul,Deitel,Prentice Hall,17,76.99
+978-0134685995,Site Reliability Engineering,Ben,Treynor Sloss,O'Reilly Media,10,63.00
+978-0137081103,Programming Python,Mark,Lutz,O'Reilly Media,14,59.99
+978-0134190471,Java Network Programming,Elliotte,Harold,O'Reilly Media,12,49.99

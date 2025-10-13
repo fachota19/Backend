@@ -1,0 +1,5 @@
+nombre,edad,fechaIngreso,salario,empleadoFijo,departamento,puesto
+Juan Perez,35,2018-03-10,450000,true,Contabilidad,Analista Senior
+Maria Gomez,28,2020-07-01,320000,false,Recursos Humanos,Asistente
+Carlos Ruiz,42,2015-05-22,600000,true,IT,Programador Senior
+Lucia Diaz,31,2019-02-15,380000,false,IT,Tester QA

@@ -1,0 +1,4 @@
+isbn,titulo,autor_nombre,autor_apellido,editorial_nombre,stock,precio
+978-0134685991,Clean Code,Robert,Martin,Prentice Hall,15,59.99
+978-0321765723,The Pragmatic Programmer,Andrew,Hunt,Addison-Wesley,10,45.50
+978-0132350884,The Clean Coder,Robert,Martin,Prentice Hall,8,55.00

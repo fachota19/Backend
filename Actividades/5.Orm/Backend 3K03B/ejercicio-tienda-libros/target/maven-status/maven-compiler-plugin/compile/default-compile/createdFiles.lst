@@ -1,0 +1,5 @@
+bookstore\entities\Autor.class
+bookstore\MainApp.class
+bookstore\entities\Editorial.class
+bookstore\entities\Libro.class
+bookstore\LibroService.class

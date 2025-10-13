@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "CodeGPT.apiKey": "OpenAI",
+    "java.debug.settings.onBuildFailureProceed": true
+}
